@@ -1,13 +1,15 @@
-# ERP Almoxarifado Politiplastic
+# ERP Almoxarifado - Politiplastic
 
 **Sistema completo de gestão de estoque desenvolvido e utilizado internamente na Politi Plastic.**
 
 > Reduzi rupturas de estoque em **aproximadamente 30%** com alertas inteligentes, previsão de consumo e integração em tempo real com o dashboard da intranet.
+
 ### 🎥 Demo em Vídeo
 
-<video src="./ALMOXARIFADO.mp4" width="800" controls loop muted autoplay playsinline>
-  Seu navegador não suporta vídeo.
-</video>
+<!-- Cole aqui o link gerado pelo GitHub depois de arrastar o vídeo -->
+
+https://github.com/user-attachments/assets/SEU_LINK_AQUI
+
 ## ✨ Principais Funcionalidades
 
 - Cadastro de itens com **fotos comprimidas** armazenadas no SQLite
@@ -31,9 +33,8 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/void222222/erp-almoxarifado-politi.git
-
-cd erp-almoxarifado-politi
+git clone https://github.com/void222222/erp-almoxarifado.git
+cd erp-almoxarifado
 
 # Instale as dependências
 pip install -r requirements.txt
