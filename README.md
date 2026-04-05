@@ -4,9 +4,6 @@
 
 > Reduzi rupturas de estoque em **aproximadamente 30%** com alertas inteligentes, previsão de consumo e integração em tempo real com o dashboard da intranet.
 
-![Dashboard em TV](screenshots/dashboard-tv.png)  
-*(Dashboard exibido em tempo real na TV da fábrica)*
-
 ## ✨ Principais Funcionalidades
 
 - Cadastro de itens com **fotos comprimidas** armazenadas no SQLite
