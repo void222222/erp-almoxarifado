@@ -5,7 +5,7 @@
 > Reduzi rupturas de estoque em **aproximadamente 30%** com alertas inteligentes, previsão de consumo e integração em tempo real com o dashboard da intranet.
 ### 🎥 Demo em Vídeo
 
-<video src="ALMOXARIFADO.mp4" width="800" controls loop muted autoplay playsinline>
+<video src="./ALMOXARIFADO.mp4" width="800" controls loop muted autoplay playsinline>
   Seu navegador não suporta vídeo.
 </video>
 ## ✨ Principais Funcionalidades
